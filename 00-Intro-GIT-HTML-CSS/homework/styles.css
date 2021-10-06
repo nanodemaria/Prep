@@ -1,0 +1,20 @@
+h1 {
+  color: mediumseagreen;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: bisque;
+  padding: 50px;
+  border: chocolate 2px solid;
+}
+
+#spanId {
+  font-size: 25px;
+  margin: 50px;
+}
